@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Owen-richards295, i am 16 years old 
+- and my aim is to be the best coder in the world
+- i know its a very challenging dream, but through perseverance and consistency i can get there.
+- i am adept at Html, css, and JavaScript. but i want to master python, java, c++, and machine language 
